@@ -2,4 +2,4 @@ ublue_variants:
   - label: qwerty123a2/my-ublue
     ks: /kickstart/ublue-os.ks
     flavors:
-      - label: my-ublue
+      - label: my-ubluee
